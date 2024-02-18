@@ -23,7 +23,7 @@ The Decentralized Smart News Service is an open-source project aimed at aggregat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/DecentralizedSmartNewsService.git
+   git clone https://github.com/<your-username>/SmartNews.git
 
 2. Create a virtual environment and activate it:
     python -m virtualenv venv
@@ -41,6 +41,7 @@ Instructions on how to run the web scraping module, AI processing module, and ho
 For collaborative development and experimentation, we provide Google Colab notebooks:
 
 Web Scraping Module Notebook
+
 AI Processing Module Notebook
 
 # Contribution Guidelines
